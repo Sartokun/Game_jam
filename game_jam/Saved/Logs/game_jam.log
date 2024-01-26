@@ -3719,3 +3719,50 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-15.59.42:745][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/Hit_Auto9
 [2024.01.26-15.59.42:746][394]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Hit_Auto988F827C341DAA4370218E8BCA2FEE624.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Autosaves/Game/GUI/Hit_Auto9.uasset'
 [2024.01.26-15.59.42:747][394]LogFileHelpers: Auto-saving content packages took 0.236
+[2024.01.26-16.03.31:847][737]BlueprintLog: New page: Compile Hit
+[2024.01.26-16.03.31:908][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.26-16.03.32:034][737]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.01.26-16.03.36:813][244]BlueprintLog: New page: Compile Hit
+[2024.01.26-16.03.36:873][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.01.26-16.03.38:094][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-16.03.38:231][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/Hit" FILE="../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/GUI/Hit.uasset" SILENT=true
+[2024.01.26-16.03.38:245][363]LogSavePackage: Moving output files for package: /Game/GUI/Hit
+[2024.01.26-16.03.38:247][363]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Hit4B1E388D451B2410AC9F3498321DF107.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/GUI/Hit.uasset'
+[2024.01.26-16.03.38:256][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 4.37 sec)
+[2024.01.26-16.03.38:258][363]AssetCheck: New page: Asset Save: Hit
+[2024.01.26-16.03.38:258][363]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GUI/Hit.Hit
+[2024.01.26-16.03.42:321][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-16.03.42:407][795]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.26-16.03.42:408][795]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/BP_ThirdPersonCharacterB280034D4097567236B6A39D44E39265.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.26-16.03.42:418][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 4.47 sec)
+[2024.01.26-16.03.42:422][795]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.26-16.03.42:422][795]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.26-16.07.45:435][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-16.07.45:502][485]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.26-16.07.45:503][485]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/BP_ThirdPersonCharacterB2DAEEFF433797704DECC0B4DFC35B2F.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.26-16.07.45:512][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 4.55 sec)
+[2024.01.26-16.07.45:514][485]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.26-16.07.45:514][485]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.26-16.07.56:505][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-16.07.56:587][470]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.26-16.07.56:588][470]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/OTJMGDDXDV5TI7982YKZ5P4AAFDEB549D5B4C7F6AE9A97E0AE7F7D.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.26-16.07.56:600][470]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/H8/QZC9O7U523TCEYR4XEGXFJ
+[2024.01.26-16.07.56:600][470]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/QZC9O7U523TCEYR4XEGXFJF47FCD7640F7A52547F597BE0F0FDFAB.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/H8/QZC9O7U523TCEYR4XEGXFJ.uasset'
+[2024.01.26-16.07.56:613][470]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KY/2AW0NM9JQADTMX9W0TGOF6
+[2024.01.26-16.07.56:613][470]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/2AW0NM9JQADTMX9W0TGOF65C56792B4124B6E22101DBA5E2108601.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KY/2AW0NM9JQADTMX9W0TGOF6.uasset'
+[2024.01.26-16.07.56:622][470]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EF/XKRZAYIP1RHVZ7JPSJYCSU
+[2024.01.26-16.07.56:622][470]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/XKRZAYIP1RHVZ7JPSJYCSUCA2746E04EB0624A2CE6EE8FA07A5D03.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EF/XKRZAYIP1RHVZ7JPSJYCSU.uasset'
+[2024.01.26-16.07.56:641][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 4.68 sec)
+[2024.01.26-16.07.56:662][470]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.26-16.07.56:662][470]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.26-16.07.56:662][470]LogContentValidation: Display: Validating /Game/GUI/Hit.Hit_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Hit_C_UAID_18C04D37634E5ED301_1597021519
+[2024.01.26-16.07.56:662][470]LogContentValidation: Display: Validating /Game/GUI/Hit.Hit_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Hit_C_UAID_18C04D37634E5ED301_1948510522
+[2024.01.26-16.07.56:662][470]LogContentValidation: Display: Validating /Game/GUI/Hit.Hit_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Hit_C_UAID_18C04D37634E5ED301_1946299521
+[2024.01.26-16.07.59:164][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-16.07.59:253][619]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.26-16.07.59:254][619]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/BP_ThirdPersonCharacter10D9D2F6472C87DF5921E5902CCA3D07.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.26-16.07.59:263][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.78 sec)
+[2024.01.26-16.07.59:265][619]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.26-16.07.59:265][619]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.26-16.08.28:228][310]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).
+[2024.01.26-16.08.28:228][310]LogWindowsTextInputMethodSystem: Activated input method: Thai (Thailand) - (Keyboard).

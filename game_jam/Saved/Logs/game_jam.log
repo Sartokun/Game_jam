@@ -1959,3 +1959,144 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-13.40.49:105][456]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/OTJMGDDXDV5TI7982YKZ5P_Auto1734A58314278A01585BD37BD0763FD92.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P_Auto1.uasset'
 [2024.01.26-13.40.49:112][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
 [2024.01.26-13.40.49:112][456]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.01.26-14.13.53:229][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.26-14.13.53:239][994]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.26-14.13.53:239][994]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.26-14.13.53:248][994]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 85 ms)
+[2024.01.26-14.13.53:248][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.26-14.13.53:248][994]PIE: New page: PIE session: ThirdPersonMap (27 ม.ค. 2567 04:13:53)
+[2024.01.26-14.13.53:248][994]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.01.26-14.13.53:250][994]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.01.26-14.13.53:266][995]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.26-14.13.53:271][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005342s)
+[2024.01.26-14.13.53:271][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005395s)
+[2024.01.26-14.13.53:288][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.01.26-14.13.53:291][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-14.13.53:291][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-14.13.53:291][995]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.26-14.13.53:292][995]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.26-14.13.53:292][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.26-14.13.53:292][995]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.26-14.13.53:292][995]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.26-14.13.53:294][995]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.26-14.13.53:294][995]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 127 ms)
+[2024.01.26-14.13.53:294][995]LogPlayLevel: PIE: World Init took: (0.002864s)
+[2024.01.26-14.13.53:294][995]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.26-14.13.53:294][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.26-14.13.53:294][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-14.13.53:294][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-14.13.53:294][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-14.13.53:294][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-14.13.53:296][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-14.13.53:322][995]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD (NVIDIA High Definition Audio)
+[2024.01.26-14.13.53:322][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-14.13.53:322][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-14.13.53:322][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-14.13.53:323][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.26-14.13.53:323][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.26-14.13.53:325][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.26-14.13.53:325][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.26-14.13.53:325][995]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.26-14.13.53:325][995]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.01.26-14.13.53:325][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.26-14.13.53:328][995]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.26-14.13.53:330][995]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.26-21.13.53
+[2024.01.26-14.13.53:331][995]LogWorld: Bringing up level for play took: 0.002324
+[2024.01.26-14.13.53:335][995]PIE: Server logged in
+[2024.01.26-14.13.53:336][995]PIE: Play in editor total start time 0.098 seconds.
+[2024.01.26-14.15.24:155][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-14.15.24:155][328]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.26-14.15.24:155][328]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-14.15.24:155][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-14.15.24:155][328]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.26-14.15.24:180][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.26-14.15.24:187][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-14.15.24:207][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-14.15.24:208][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.26-14.15.24:208][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.26-14.15.24:209][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.26-14.15.24:218][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.26-14.15.24:397][329]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.01.26-14.15.48:823][899]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.01.26-14.15.49:702][899]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={F2F66FAA-44A4-D922-DA31-65BEBF4889E6}
+[2024.01.26-14.15.49:719][899]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.01.26-14.15.50:309][899]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={4A15EDF2-4360-1BD7-54F5-FEBF2505B6E6}
+[2024.01.26-14.15.50:324][899]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.01.26-14.15.50:931][899]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={C679786F-4D73-7B7A-F102-1BBB071BFC47}
+[2024.01.26-14.16.41:037][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.26-14.16.41:041][728]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.022
+[2024.01.26-14.16.41:043][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.01.26-14.16.41:109][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.01.26-14.16.41:109][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.01.26-14.16.41:134][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.01.26-14.16.41:134][728]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/BP_ThirdPersonCharacter_Auto2462CE6E44F470676CF242FBFFECAAC05.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.01.26-14.16.41:135][728]LogFileHelpers: Auto-saving content packages took 0.094
+[2024.01.26-14.21.27:966][839]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.26-14.21.28:030][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.26-14.21.28:725][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-14.21.28:877][897]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.26-14.21.28:879][897]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/BP_ThirdPersonCharacter45CB6B8A4F5162027CE448B93E290A33.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.26-14.21.28:888][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 1.61 sec)
+[2024.01.26-14.21.28:891][897]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.26-14.21.28:891][897]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.26-14.21.45:900][131]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.26-14.21.45:913][131]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.26-14.21.45:926][132]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.26-14.21.47:854][220]LogContentBrowser: Attempting asset rename: NewFolder -> GUI
+[2024.01.26-14.21.47:857][220]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.26-14.21.51:673][380]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.26-14.22.01:194][571]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.01.26-14.22.01:205][571]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.01.26-14.22.01:211][571]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.01.26-14.22.01:239][573]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.01.26-14.22.04:604][713]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI
+[2024.01.26-14.22.04:638][713]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.01.26-14.22.06:317][788]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/UI.UI
+[2024.01.26-14.22.06:319][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-14.22.06:319][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-14.22.06:339][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-14.22.06:339][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-14.22.06:350][788]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.26-14.22.06:760][788]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.26-14.22.06:763][788]LogSlate: Took 0.002074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.26-14.22.52:061][987]LogDerivedDataCache: C:/Users/peto2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.447 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8085 files in 10283 folders with total size 1171 MiB.
+[2024.01.26-14.23.29:007][ 26]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.01.26-14.23.29:571][ 34]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.26-14.25.48:379][180]BlueprintLog: New page: Compile UI
+[2024.01.26-14.25.48:421][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.26-14.25.59:942][403]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.26-14.26.00:012][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.26-14.26.08:213][295]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.26-14.26.08:288][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.26-14.26.08:905][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-14.26.09:083][331]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.26-14.26.09:084][331]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/BP_ThirdPersonCharacter87F4A95C412A5B5F1E0301A4880CE738.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.26-14.26.09:095][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 1.80 sec)
+[2024.01.26-14.26.09:095][331]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.26-14.26.09:095][331]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.26-14.26.50:990][887]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.26-14.26.55:712][389]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.26-14.26.56:995][533]LogEditorTransaction: Undo Edit Brush Color
+[2024.01.26-14.27.03:071][116]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.26-14.27.08:535][700]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.26-14.27.12:906][156]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.26-14.27.27:756][846]BlueprintLog: New page: Compile UI
+[2024.01.26-14.27.27:788][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.26-14.28.14:126][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.26-14.28.14:136][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P_Auto3
+[2024.01.26-14.28.14:136][336]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/OTJMGDDXDV5TI7982YKZ5P_Auto3ECB0A9744FED6C24E4E678B9836CA57B.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P_Auto3.uasset'
+[2024.01.26-14.28.14:142][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2024.01.26-14.28.14:142][336]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2024.01.26-14.28.14:142][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/UI] ([2] browsable assets)...
+[2024.01.26-14.28.14:145][336]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/UI.UI]
+[2024.01.26-14.28.14:146][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/UI]
+[2024.01.26-14.28.14:158][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/UI_Auto3
+[2024.01.26-14.28.14:158][336]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/UI_Auto3B25A95B44152C26C2ED61780B0BBDAAD.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Autosaves/Game/GUI/UI_Auto3.uasset'
+[2024.01.26-14.28.14:160][336]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.01.26-14.29.27:183][556]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1

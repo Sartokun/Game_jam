@@ -3286,3 +3286,23 @@ Make sure 'ABP_Monkey_Fin_C' has been compiled for  Set LocomotionAngle
 [2024.01.27-07.12.49:290][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.02 sec)
 [2024.01.27-07.12.49:293][386]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.01.27-07.12.49:293][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.27-07.13.23:409][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.27-07.13.24:907][563]LogSlate: Window 'Save Content' being destroyed
+[2024.01.27-07.13.25:099][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-07.13.25:318][563]LogSavePackage: Moving output files for package: /Game/Characters/Monkey_F/Falling_Idle
+[2024.01.27-07.13.25:319][563]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Falling_Idle936A9D094F61ACBD0E9633958DCB9647.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/Characters/Monkey_F/Falling_Idle.uasset'
+[2024.01.27-07.13.25:381][563]LogSavePackage: Moving output files for package: /Game/Characters/Monkey_F/Falling_To_Landing
+[2024.01.27-07.13.25:381][563]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Falling_To_Landing0D28E6774C48805DCBF67898EBF1FD8C.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/Characters/Monkey_F/Falling_To_Landing.uasset'
+[2024.01.27-07.13.25:419][563]LogSavePackage: Moving output files for package: /Game/Characters/Monkey_F/Jumping
+[2024.01.27-07.13.25:419][563]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/JumpingA4D903774597C8E9F545048D60E5B1C0.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/Characters/Monkey_F/Jumping.uasset'
+[2024.01.27-07.13.25:467][563]LogSavePackage: Moving output files for package: /Game/Characters/Monkey_F/Running_Forward_Flip
+[2024.01.27-07.13.25:467][563]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Running_Forward_Flip89440BF145CDA084239E88BDA28011DD.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/Characters/Monkey_F/Running_Forward_Flip.uasset'
+[2024.01.27-07.13.25:504][563]LogSavePackage: Moving output files for package: /Game/Characters/Monkey_F/Running_Forward_Flip_Montage
+[2024.01.27-07.13.25:504][563]LogSavePackage: Moving '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Saved/Running_Forward_Flip_Montage93491FE1476669F60EAB4393EF8AB131.tmp' to '../../../../../../Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/Characters/Monkey_F/Running_Forward_Flip_Montage.uasset'
+[2024.01.27-07.13.25:528][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 429 ms (total: 3.45 sec)
+[2024.01.27-07.13.25:530][563]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-07.13.25:530][563]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Monkey_F/Falling_Idle.Falling_Idle
+[2024.01.27-07.13.25:530][563]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Monkey_F/Falling_To_Landing.Falling_To_Landing
+[2024.01.27-07.13.25:530][563]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Monkey_F/Jumping.Jumping
+[2024.01.27-07.13.25:530][563]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Monkey_F/Running_Forward_Flip.Running_Forward_Flip
+[2024.01.27-07.13.25:530][563]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/Monkey_F/Running_Forward_Flip_Montage.Running_Forward_Flip_Montage
